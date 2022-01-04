@@ -5,6 +5,7 @@ ToxinPred 2.0 is an updated version of our server ToxinPred, developed in 2013. 
 
 **Models**: In this program, two models have been incorporated;  
 i) Model1 for predicting given input peptide/protein sequence as toxic and non-toxic peptide/proteins using Random Forest based on amino-acid composition of the peptide/proteins; 
+
 ii) Model2 for predicting given input peptide/protein sequence as toxic and non-toxic peptide/proteins using Hybrid approach, which is the ensemble of Random Forest+ BLAST+ MERCI. It combines the scores generated from machine learning (RF), MERCI, and BLAST as Hybrid Score, and the prediction is based on Hybrid Score.
 
 **Modules/Jobs**: This program implements three modules; 
