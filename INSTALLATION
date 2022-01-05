@@ -1,0 +1,17 @@
+1. Pre-requisite
+==========
+In order to run this program user should have Python3, ncbi-blast-2.2.29+ (blastp) and library scikit-learn
+
+2. Download Site
+============
+https://webs.iiitd.edu.in/raghava/toxinpred2/stand.html
+
+3. Unzip/Untar
+
+4. Change dir to toxinpred2
+
+5. python3 toxinpred2.py -i peptide.fa
+
+
+
+
