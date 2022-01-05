@@ -17,6 +17,8 @@ ii) Model2 for predicting given input peptide/protein sequence as toxic and non-
 
 **Full Usage**: Following is complete list of all options, you may get these options by "toxinpred2.py -h".
 
+```
+
 usage: toxinpred2.py [-h] -i INPUT [-o OUTPUT] [-t THRESHOLD] [-m {1,2}] [-d {1,2}]
 
 Please provide following arguments
@@ -33,3 +35,5 @@ optional arguments:
   -m {1,2}, -- model Model (Model: 1: AAC based RF, 2: Hybrid, by default 1)
                         
   -d {1,2}, --display {1,2} (Display: 1:Toxin peptide, 2: All peptides, by default 1)
+
+```
