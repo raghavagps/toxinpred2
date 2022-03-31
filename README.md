@@ -1,7 +1,7 @@
-# ToxinPred 2.0 : A webserver for designing and predicting toxic and non-toxic proteins
+# ToxinPred2 : A webserver for designing and predicting toxic and non-toxic proteins
 
 # Introduction
-ToxinPred 2.0 is an updated version of our server ToxinPred, developed in 2013. It is developed for predicting, mapping and scanning toxic peptides. More information on ToxinPred2.0 is available from its web server http://webs.iiitd.edu.in/raghava/toxinpred2. This page provide information about standalone version of ToxinPred2.0. Please read/cite following paper for complete information including algorithm behind ToxinPred 2.0.
+ToxinPred2 is an updated version of our server ToxinPred, developed in 2013. It is developed for predicting, mapping and scanning toxic peptides. More information on ToxinPred2 is available from its web server http://webs.iiitd.edu.in/raghava/toxinpred2. This page provide information about standalone version of ToxinPred2. Please read/cite following paper for complete information including algorithm behind ToxinPred2.
 
 **Models**: In this program, two models have been incorporated;  
 i) Model1 for predicting given input protein sequence as toxic and non-toxic proteins using Random Forest based on amino-acid composition of the proteins; 
