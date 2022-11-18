@@ -1,7 +1,0 @@
-#Path information for BLAST and MERCI commands
-#Path information of the data required to run the BLAST and MERCI
-#User can change the paths according to their machines
-BLAST:/home/neelam/ncbi-blast-2.2.29+/bin/blastp
-BLAST database:/home/neelam/TOXINPRED2/Database/data
-MERCI:/home/neelam/TOXINPRED2/progs/MERCI_motif_locator.pl
-MERCI motif file:/home/neelam/TOXINPRED2/Database/pos_motif.txt
