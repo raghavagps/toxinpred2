@@ -102,5 +102,5 @@ peptide.seq	: Example file contain peptide sequences in simple format
 
 protein.fa	: Example file contain protein sequences in FASTA format 
 
-
-
+# Reference
+Sharma N, Naorem LD, Jain S, Raghava GPS (2022) ToxinPred2: an improved method for predicting toxicity of proteins. <a href="https://pubmed.ncbi.nlm.nih.gov/35595541/">Brief Bioinform. doi: 10.1093/bib/bbac174.</a>
