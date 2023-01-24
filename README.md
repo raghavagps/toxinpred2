@@ -16,8 +16,8 @@ Standalone version of ToxinPred2 is written in python3 and the following librari
 # Important Note
 
 - Due to large size of the model file, we have not included it in the zipped folder or GitHub repository, thus to run standalone successfully you need to download model file and then unzip them.
-- Make sure you extract the download zip files in the directory where main execution file i.e. toxinpred2.py is available.
-- To download the model folder click [here].(https://webs.iiitd.edu.in/raghava/toxinpred2/RF_model.zip)
+- Make sure you extract the downloaded zip file in the directory where main execution file i.e. toxinpred2.py is available.
+- To download the model file click [here].(https://webs.iiitd.edu.in/raghava/toxinpred2/RF_model.zip)
 
 **Minimum USAGE** 
 
