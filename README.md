@@ -4,6 +4,16 @@ A method for predicting toxicity of the proteins
 # Introduction
 ToxinPred2.0 is developed for predicting, mapping and scanning toxic peptides. More information on ToxinPred2 is available from its web server http://webs.iiitd.edu.in/raghava/toxinpred2. This page provide information about standalone version of ToxinPred2.
 
+## PIP Installation
+PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
+```
+pip install hladr4pred2
+```
+To know about the available option for the pip package, type the following command:
+```
+hladr4pred2 -h
+```
+
 # Standalone
 
 Standalone version of ToxinPred2 is written in python3 and the following libraries are necessary for a successful run:
