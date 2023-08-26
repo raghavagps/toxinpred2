@@ -7,11 +7,11 @@ ToxinPred2.0 is developed for predicting, mapping and scanning toxic peptides. M
 ## PIP Installation
 PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
 ```
-pip install hladr4pred2
+pip install toxinpred2
 ```
 To know about the available option for the pip package, type the following command:
 ```
-hladr4pred2 -h
+toxinpred2 -h
 ```
 
 # Standalone
