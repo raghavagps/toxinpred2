@@ -4,6 +4,9 @@ A method for predicting toxicity of the proteins
 # Introduction
 ToxinPred2.0 is developed for predicting, mapping and scanning toxic peptides. More information on ToxinPred2 is available from its web server http://webs.iiitd.edu.in/raghava/toxinpred2. This page provide information about standalone version of ToxinPred2.
 
+## datasets folder
+Contain complete datasets
+
 ## PIP Installation
 PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
 ```
